@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this repository in your research, please cite it using the metadata below."
+title: "EBV Gastric Cancer Transcriptomics"
+type: software
+authors:
+  - family-names: "Mottaghi-Dastjerdi"
+    given-names: "Negar"
+repository-code: "https://github.com/negmot/EBV-Gastric-Cancer-Transcriptomics"
+url: "https://github.com/negmot/EBV-Gastric-Cancer-Transcriptomics"
+license: MIT
+keywords:
+  - "Epstein-Barr virus"
+  - "gastric cancer"
+  - "transcriptomics"
+  - "differential gene expression"
+  - "gene annotation"
+  - "reproducible research"
+abstract: "A reproducible Python workflow for gene annotation and cross-dataset processing of differential-expression records in EBV-positive versus EBV-negative intestinal-type gastric cancer."
