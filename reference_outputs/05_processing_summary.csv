@@ -1,0 +1,9 @@
+measure,value
+Significant records before symbol filtering,8372
+Records removed for missing/blank symbol,796
+Retained annotated probe-level records,7576
+Upregulated records,3118
+Downregulated records,4458
+Distinct literal symbol labels,5256
+Repeated symbol records beyond first occurrence,2320
+Multi-symbol labels containing ///,354
