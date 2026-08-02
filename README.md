@@ -1,4 +1,5 @@
 # EBV Gastric Cancer Transcriptomics
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21761694.svg)](https://doi.org/10.5281/zenodo.21761694)
 
 A reproducible Python workflow for annotation and cross-dataset processing of differential-expression records in Epstein–Barr virus-positive versus Epstein–Barr virus-negative intestinal-type gastric cancer.
 
@@ -15,6 +16,13 @@ The workflow processes dataset-specific GEO2R results from three independent Gen
 The comparison of interest is EBV-positive versus EBV-negative intestinal-type gastric cancer.
 
 This workflow does not pool raw expression matrices and does not perform a formal cross-platform meta-analysis. Instead, it reproduces the annotation, filtering, retention, and prioritization of significant differential-expression records obtained from the individual GEO2R analyses.
+## Citation
+
+If you use this repository, its code, or its derived outputs, please cite:
+
+Mottaghi-Dastjerdi, N. (2026). *EBV Gastric Cancer Transcriptomics* (Version v1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.21761694
+
+Citation metadata is also available in the `CITATION.cff` file and through GitHub's **Cite this repository** option.
 
 ## Repository Structure
 
