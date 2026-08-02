@@ -1,8 +1,0 @@
-check,passed
-integrated_record_count_is_8372,True
-filtered_record_count_is_7576,True
-upregulated_record_count_is_3118,True
-downregulated_record_count_is_4458,True
-filtered_probe_and_statistics_match_historical_file,True
-nine_historical_excel_symbol_to_date_conversions_detected,True
-top200_membership_matches_historical_file,True

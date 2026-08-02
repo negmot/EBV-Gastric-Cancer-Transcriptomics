@@ -1,4 +1,0 @@
-dataset,total_rows,significant_rows_adj_P_Val_lt_0.05,gene_symbol_column_present
-GSE51575,42735,3,False
-GSE62254,54675,8079,True
-GSE66229,54675,290,True
