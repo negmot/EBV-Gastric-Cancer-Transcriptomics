@@ -2,7 +2,7 @@
 
 This archive supports the revised manuscript on EBV-associated intestinal-type gastric cancer. It replaces the historical three-dataset probe-concatenation/top-200 workflow in Version 1 with two independent cohorts (GSE51575 and GSE62254), probe-to-gene reduction, inverse-variance fixed-effect meta-analysis, concordant-direction filtering, and downstream analysis of 606 genes.
 
-Upload the five numbered ZIP files together with `README.md`, `requirements.txt`, `LICENSE`, and `CITATION.cff` as a **new version of the existing Zenodo record**. Use the DOI minted by Zenodo; do not select “I already have a DOI.”
+Upload the six numbered ZIP files together with `README.md`, `requirements.txt`, `LICENSE`, and `CITATION.cff` as a **new version of the existing Zenodo record**. Use the DOI minted by Zenodo; do not select “I already have a DOI.”
 
 ## Packages
 
@@ -24,7 +24,7 @@ Upload the five numbered ZIP files together with `README.md`, `requirements.txt`
 
 ## Transparency note
 
-No native Cytoscape session (`.cys`) or separate MCODE/CytoCluster membership export was present in the retained project files. The archive therefore includes the available network table and original cytoHubba CSV exports but does not invent unavailable native-session or module files. If module detection is reported in the final manuscript, the corresponding genuine export should be added before publication or the unsupported module claim should be removed.
+The native Cytoscape session file (main_network.cys) is provided in 06_Cytoscape_network.zip. Network module detection was performed using the CytoCluster plugin with the IPCA algorithm and a threshold of 0.9. Cluster-level tables and figures are reported in the manuscript and supplementary materials..
 
 ## Data sources
 
