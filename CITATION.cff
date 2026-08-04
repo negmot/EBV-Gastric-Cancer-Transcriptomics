@@ -1,21 +1,17 @@
 cff-version: 1.2.0
-message: "If you use this repository in your research, please cite the archived software release below."
-title: "EBV Gastric Cancer Transcriptomics"
-type: software
+message: "If you use these files, please cite the archived Zenodo version and the associated manuscript."
+title: "Cross-Cohort Transcriptomic Meta-analysis of EBV-Associated Intestinal-Type Gastric Cancer: Analysis Code and Results"
+type: dataset
+version: 2.0.0
+date-released: 2026-08-04
 authors:
-  - family-names: "Mottaghi-Dastjerdi"
-    given-names: "Negar"
-version: "v1.0.0"
-date-released: "2026-08-02"
-doi: "10.5281/zenodo.21761694"
-repository-code: "https://github.com/negmot/EBV-Gastric-Cancer-Transcriptomics"
-url: "https://doi.org/10.5281/zenodo.21761694"
-license: MIT
+  - family-names: "Soltany-Rezaee-Rad"
+    given-names: "Mohammad"
 keywords:
-  - "Epstein-Barr virus"
-  - "gastric cancer"
-  - "transcriptomics"
-  - "differential gene expression"
-  - "gene annotation"
-  - "reproducible research"
-abstract: "A reproducible Python workflow for gene annotation and cross-dataset processing of differential-expression records in EBV-positive versus EBV-negative intestinal-type gastric cancer."
+  - Epstein-Barr virus
+  - gastric cancer
+  - intestinal type
+  - transcriptomic meta-analysis
+  - protein-protein interaction network
+  - TCGA-STAD
+license: MIT
